@@ -39,11 +39,11 @@ Passionate about transforming raw data into actionable business insights. Experi
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-![Repositories](https://img.shields.io/github/repositories/ArsalCodes?style=flat-square&color=blue)
-![Followers](https://img.shields.io/github/followers/ArsalCodes?style=flat-square&color=green)
-![Stars](https://img.shields.io/github/stars/ArsalCodes?style=flat-square&color=yellow)
+![Role](https://img.shields.io/badge/Role-Data%20Analyst-blue?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Python%20%26%20SQL-green?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Internships-orange?style=flat-square)
 
 ---
 
