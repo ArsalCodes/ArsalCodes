@@ -39,10 +39,11 @@ Passionate about transforming raw data into actionable business insights. Experi
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Arsalan's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ArsalCodes&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArsalCodes&layout=compact&theme=radial)
+![Repositories](https://img.shields.io/github/repositories/ArsalCodes?style=flat-square&color=blue)
+![Followers](https://img.shields.io/github/followers/ArsalCodes?style=flat-square&color=green)
+![Stars](https://img.shields.io/github/stars/ArsalCodes?style=flat-square&color=yellow)
 
 ---
 
